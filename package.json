@@ -1,0 +1,14 @@
+{
+  "name": "sonux",
+  "version": "0.0.1",
+  "author": "Nicholas Pisacane <pisacanen@gmail.com>",
+  "license": "MIT",
+  "typings": "./build/index.d.ts",
+  "main": "./build/index.js",
+  "scripts": {
+    "ts:build": "tsc"
+  },
+  "devDependencies": {
+    "typescript": "^3.3.3"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "compilerOptions": {
+    "target": "es5",
+    "module": "commonjs",
+    "lib": ["dom", "esnext"],
+    "allowJs": false,
+    "jsx": "react",
+    "strict": true,
+    "noUnusedLocals": true,
+    "rootDirs": ["./src"],
+    "outDir": "./build",
+    "allowSyntheticDefaultImports": true,
+    "esModuleInterop": true,
+    "declaration": true
+  }
+}
