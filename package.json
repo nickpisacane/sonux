@@ -9,6 +9,14 @@
     "ts:build": "tsc"
   },
   "devDependencies": {
+    "@types/react": "^16.8.4",
+    "react": "^16.8.2",
+    "rxjs": "^6.4.0",
     "typescript": "^3.3.3"
-  }
+  },
+  "peerDependencies": {
+    "react": "^16.8.2",
+    "rxjs": "^6.4.0"
+  },
+  "dependencies": {}
 }
